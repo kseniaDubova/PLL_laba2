@@ -1,0 +1,14 @@
+
+*.tlog
+*.vcxproj
+*.obj
+*.filters
+*.user
+*.log
+*.recipe
+*.ilk
+*.idb
+PLL_laba2/x64/Debug/vc143.pdb
+x64/Debug/PLL_laba2.exe
+x64/Debug/PLL_laba2.pdb
+PLL_laba2.sln
